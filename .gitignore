@@ -1,0 +1,25 @@
+# Challenge data (download from the challenge page; not redistributed)
+data/
+pseudo_labels/
+
+# Organizer-provided starter kit
+starter-notebook.ipynb
+utils.py
+sample_gt_submission.npz
+sample_pred_submission.npz
+sample_submission.npz
+submission-sample.npz
+
+# Local scratch / experiment outputs
+prompt.txt
+Models/
+*.pth
+*.pt
+checkpoint_*
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/

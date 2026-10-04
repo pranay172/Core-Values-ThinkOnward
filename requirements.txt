@@ -1,0 +1,9 @@
+# Originally run on Kaggle GPU notebooks (early 2025); exact versions were not recorded.
+torch>=2.0
+torchvision>=0.15
+transformers>=4.30
+numpy
+pillow
+tqdm
+matplotlib
+jupyter
